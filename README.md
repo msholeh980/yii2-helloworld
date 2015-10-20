@@ -32,4 +32,4 @@ Once the extension is installed, simply use it in your code by  :
 use msholeh980\helloworld\Helloworld;
 
 echo Helloworld::widget();
-?>```
+?>
