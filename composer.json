@@ -1,0 +1,32 @@
+{
+
+    "name": "msholeh980/yii2-helloworld",
+    "type": "yii2-extension",
+    "description": "Simple Yii2-extension",
+    "keywords": ["yii2","hello world","extention","muhamad sholeh"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/msholeh980/yii2-helloworld/issues",
+        "wiki": "https://github.com/msholeh980/yii2-helloworld/wiki",
+        "source": "https://github.com/msholeh980/yii2-helloworld"
+    },
+    "authors": [
+        {
+            "name": "Muhamad Sholeh",
+            "email": "msholeh980@gmail.com",
+            "homepage": "http://muhamadsholeh.com"
+        }
+    ],
+
+
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+
+
+    "autoload": {
+        "psr-4": {
+            "msholeh980\\helloworld\\": ""
+        }
+    }
+}
