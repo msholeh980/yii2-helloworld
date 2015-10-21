@@ -25,7 +25,7 @@
 
 
     "autoload": {
-        "psr-4": {
+        "psr-1": {
             "msholeh980\\helloworld\\": ""
         }
     }
