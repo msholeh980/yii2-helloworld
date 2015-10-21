@@ -1,7 +1,7 @@
 # yii2-helloworld
 
 Simple Yii2-extension
-[![PHPPackages Rank](http://phppackages.org/p/msholeh980/yii2-helloworld/badge/rank.svg)](http://phppackages.org/p/msholeh980/yii2-helloworld)
+
 Installation
 ------------
 
